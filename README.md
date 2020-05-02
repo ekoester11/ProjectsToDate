@@ -1,2 +1,2 @@
 # ProjectsToDate
-Summary of coding projects 
+Projects completed in class or through internships.
