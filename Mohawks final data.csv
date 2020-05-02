@@ -1,0 +1,144 @@
+Date,Batter,Pitch,Strike,Count,Full result,Sum result
+June 22,Poteet,Fast ,F,3-2,BB,Walk
+June 22,Mundy,Fast ,L,0-1,G,Out
+June 22,Costes,Fast ,L,1-1,4,Hit
+June 22,Hartigan,Fast ,F,1-1,1,Hit
+June 22,Ellington,Fast ,F,3-1,1,Hit
+June 22,Poteet,Fast ,F,1-1,FO,Out
+June 22,Hartigan,Fast ,L,3-1,BB,Walk
+June 22,Poteet,Fast ,L,1-2,SOL,Strikeout
+June 22,Hartigan,Fast ,F,3-2,BB,Walk
+June 22,Turconi,Fast ,L,1-1,BB,Walk
+June 22,Zayicek,Fast ,F,3-2,2,Hit
+June 22,Poteet,Fast ,F,2-2,SOS,Strikeout
+June 22,Mundy,Fast ,L,2-1,1,Hit
+June 25,Blanton,Fast ,F,2-1,4,Hit
+June 25,Blanton,Fast ,L,3-1,BB,Walk
+June 25,Ellington,Fast ,F,3-1,BB,Walk
+June 25,Poteet,Fast ,F,3-2,FO,Out
+June 25,Jimenez,Fast ,L,3-2,BB,Walk
+June 25,Padre,Fast ,L,3-2,SOL,Strikeout
+June 25,Zayicek,Fast ,L,0-2,1,Hit
+June 25,Poteet,Fast ,S,1-2,4,Hit
+June 25,Hartigan,Fast ,F,2-1,1,Hit
+June 25,Jimenez,Fast ,L,2-2,SOS,Strikeout
+June 25,Padre,Fast ,F,0-2,SOS,Strikeout
+June 25,Turconi,Fast ,F,3-2,1,Hit
+June 25,Blanton,Fast ,S,1-2,SOS,Strikeout
+June 25,Poteet,Fast ,L,3-2,BB,Walk
+June 25,Costes,Fast ,F,3-2,G,Out
+June 27,Ellington,Fast ,L,1-2,SOL,Strikeout
+June 27,Cortez,Fast ,S,0-2,SOL,Strikeout
+June 27,Decker,Fast ,L,3-1,BB,Walk
+June 27,Ellington,Fast ,F,1-2,SOS,Strikeout
+June 27,Poteet,Fast ,L,1-1,1,Hit
+June 27,Hartigan,Fast ,F,1-1,FO,Out
+June 27,Cortez,Fast ,F,0-2,SOS,Strikeout
+June 27,Poteet,Fast ,F,3-2,BB,Walk
+June 27,Decker,Fast ,F,3-1,BB,Walk
+June 27,Poteet,Fast ,F,2-2,3,Hit
+July 2,Hartigan,Fast ,F,1-2,2,Hit
+July 2,Costes,Fast ,F,3-1,FO,Out
+July 2,Reese,Fast ,L,0-2,FO,Out
+July 2,Hartigan,Fast ,F,2-1,FO,Out
+July 2,Costes,Fast ,L,2-1,FO,Out
+July 2,Decker,Fast ,F,3-2,BB,Walk
+July 2,Blanton,Fast ,L,2-2,FO,Out
+July 2,Franzoni,Fast ,L,2-1,FO,Out
+July 2,Blanton,Fast ,F,0-2,FO,Out
+July 2,Reese,Fast ,F,0-2,1,Hit
+July 2,Zayicek,Fast ,L,3-2,1,Hit
+July 2,Padre,Fast ,F,3-2,1,Hit
+July 2,Jimenez,Fast ,L,3-1,BB,Walk
+July 2,Decker,Fast ,S,2-2,SOS,Strikeout
+July 2,Ellington,Fast ,L,0-1,FO,Out
+July 3,Ellington,Fast ,L,2-2,SOL,Strikeout
+July 3,Costes,Fast ,S,3-1,BB,Walk
+July 3,Jimenez,Fast ,F,3-1,1,Hit
+July 3,Poteet,Fast ,S,2-2,1,Hit
+July 3,Hartigan,Fast ,L,2-2,SOL,Strikeout
+July 3,Jimenez,Fast ,F,3-1,BB,Walk
+July 3,Jordan,Fast ,F,0-1,FO,Out
+July 3,Jimenez,Fast ,L,0-2,G,Out
+July 3,Poteet,Fast ,L,1-2,SOS,Strikeout
+July 3,Hartigan,Fast ,L,1-2,FO,Out
+July 3,Decker,Fast ,S,2-1,G,Out
+July 3,Blanton,Fast ,F,3-1,FO,Out
+July 3,Poteet,Fast ,L,2-1,FO,Out
+July 3,Stanovich,Fast ,F,2-2,1,Hit
+July 9,Reese,Fast ,F,3-2,4,Hit
+July 9,Hartigan,Fast ,L,2-2,G,Out
+July 9,Decker,Fast ,L,3-2,1,Hit
+July 9,Zayicek,Fast ,F,0-1,G,Out
+July 9,Zayicek,Fast ,F,2-1,FO,Out
+July 9,Hartigan,Fast ,F,1-1,G,Out
+July 9,Blanton,Fast ,F,1-2,1,Hit
+July 9,Turconi,Fast ,F,0-2,1,Hit
+July 9,Blanton,Fast ,L,2-1,G,Out
+July 9,Jordan,Fast ,L,1-1,1,Hit
+July 9,Franzoni,Fast ,F,0-1,G,Out
+July 9,Zayicek,Fast ,F,2-2,SOS,Strikeout
+July 9,Brock,Fast ,L,0-2,SOS,Strikeout
+July 9,Jimenez,Fast ,L,2-2,1,Hit
+July 9,Stanavich,Fast ,F,1-2,SOS,Strikeout
+July 9,Blanton,Fast ,F,3-2,2,Hit
+July 9,Jordan,Fast ,L,2-1,FO,Out
+June 22,Decker,O,L,2-2,G,Out
+June 22,Turconi,C,L,1-2,4,Hit
+June 22,Costes,O,L,1-2,2,Hit
+June 22,Decker,O,F,3-1,BB,Walk
+June 22,Turconi,O,L,0-2,SOL,Strikeout
+June 22,Poteet,O,F,3-1,BB,Walk
+June 22,Costes,O,F,1-1,1,Hit
+June 22,Jimenez,O,L,2-2,FO,Out
+June 22,Decker,O,F,1-2,SOS,Strikeout
+June 22,Turconi,O,L,3-2,1,Hit
+June 22,Ellington,O,L,1-1,G,Out
+June 22,Costes,C,S,3-1,BB,Walk
+June 22,Decker,C,F,2-2,SOS,Strikeout
+June 22,Costes,C,F,1-2,SOS,Strikeout
+June 25,Turconi,C,L,3-2,BB,Walk
+June 25,Turconi,C,L,0-2,SOS,Strikeout
+June 25,Reese,O,L,3-2,G,Out
+June 25,Turconi,O,F,2-2,G,Out
+June 25,Blanton,O,L,0-2,G,Out
+June 25,Ellington,O,L,1-1,1,Hit
+June 25,Hartigan,O,L,0-1,3,Hit
+June 27,Jimenez,O,L,3-1,2,Hit
+June 27,Mundy,C,S,3-2,4,Hit
+June 27,Hartigan,O,L,1-1,1,Hit
+June 27,Jimenez,O,L,1-2,G,Out
+June 27,Blanton,O,L,3-1,1,Hit
+June 27,Ellington,O,L,0-1,FO,Out
+June 27,Zayicek,C,L,1-2,SOL,Strikeout
+June 27,Blanton,O,S,0-2,1,Hit
+June 27,Reese,O,L,1-2,1,Hit
+June 27,Decker,O,L,1-2,SOS,Strikeout
+June 27,Franzoni,O,L,1-2,G,Out
+June 27,Padre,O,L,2-2,FO,Out
+June 27,Zayicek,O,L,2-1,2,Hit
+June 27,Jimenez,O,L,1-1,FO,Out
+July 2,Reese,O,L,2-1,FO,Out
+July 2,Costes,O,L,2-2,4,Hit
+July 2,Jordan,O,L,1-1,G,Out
+July 2,Jimenez,O,L,0-2,G,Out
+July 2,Decker,O,L,0-1,FO,Out
+July 2,Franzoni,O,L,1-1,1,Hit
+July 3,Franzoni,O,L,0-1,FO,Out
+July 3,Costes,O,F,3-2,G,Out
+July 3,Franzoni,O,L,1-2,1,
+July 3,Poteet,O,L,2-1,G,Out
+July 3,Padre,O,L,0-2,G,Out
+July 3,Turconi,O,L,2-1,1,Hit
+July 3,Franzoni,O,L,3-2,BB,Walk
+July 3,Jimenez,O,L,2-2,2,Hit
+July 3,Jordan,O,S,1-1,1,Hit
+July 3,Padre,C,L,2-2,SOS,Strikeout
+July 3,Franzoni,O,L,3-2,SOS,Strikeout
+July 9,Costes,O,L,3-2,SOL,Strikeout
+July 9,Jordan,O,L,0-1,1,Hit
+July 9,Reese,O,L,2-2,G,Out
+July 9,Reese,O,F,1-2,G,Out
+July 9,Costes,O,L,3-2,1,Hit
+July 9,Zayicek,O,L,0-2,1,Hit
+July 9,Hartigan,O,L,0-2,G,Out
